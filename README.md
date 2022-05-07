@@ -2,6 +2,8 @@
 
 ## Skillset:
 ### Languages
+[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/56468194/167262021-e85aec9b-1208-4cb5-b506-b3cfe3d93ac6.png" />]
+
 
 ### Web
 
