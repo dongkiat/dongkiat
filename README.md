@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Skillset:
+## Skill Set:
 ### Languages
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/56468194/167262021-e85aec9b-1208-4cb5-b506-b3cfe3d93ac6.png" style="padding-right:10px;" />](https://www.python.org/)
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/56468194/167263024-f39d71df-6a84-4310-bcf5-c6c9b0b385e0.png" style="padding-right:10px;" />](https://isocpp.org/)
@@ -10,7 +10,11 @@
 
 ### Web
 
+<br/>
+
 ### AI
+
+<br/>
 
 ### General
 
