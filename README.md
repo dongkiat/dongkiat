@@ -1,4 +1,4 @@
-### Carpe Diem!
+### Carpe Diem
 **🦆 Hybrid full duck developer, Full time CS student, All time human**
 
 <!--
